@@ -1,4 +1,4 @@
-# Swiggy-Project-in-PowerBI
+# Swiggy-Project Analysis-in-PowerBI
 ![image](https://github.com/user-attachments/assets/960b9f17-04d5-4b52-a5d2-e35bc39686f0)
 ![image](https://github.com/user-attachments/assets/c8096514-411c-4222-b6b5-9c8881aa0d31)
 ![image](https://github.com/user-attachments/assets/b7a991d8-4df5-449e-b0a3-98989c29fa88)
